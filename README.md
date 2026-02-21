@@ -130,7 +130,7 @@ The model was trained using Low-Rank Adaptation (LoRA) on tasks divided into tox
 
 ## 🚀 Getting Started
 
-🎁 Our Model [TE](https://huggingface.co/SeoSaMo/)
+🎁 Our Model [TE](https://huggingface.co/SeoSaMo/SPEED-TE-8B)
 
 ```
 in preparation ...
