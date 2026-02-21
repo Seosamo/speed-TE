@@ -53,7 +53,7 @@ The model was trained using Low-Rank Adaptation (LoRA) on tasks divided into tox
 
 <Br>
 
-#### Detection Accuracy on Zero-Shot ?? (%)
+#### Detection Accuracy on Zero-Shot dataset (%)
 
 | Dataset | Llama3-70B | TE-8B |
 | --- | --- | --- |
@@ -96,7 +96,7 @@ The model was trained using Low-Rank Adaptation (LoRA) on tasks divided into tox
 
 <br>
 
-#### LLM judge scores for toxicity explanations on Zero-Shot ??
+#### LLM judge scores for toxicity explanations on Zero-Shot dataset
 
 * HatEval
 
